@@ -1,0 +1,25 @@
+@import "~bulma/bulma.sass";
+
+.hero-head {
+  background-color: grey;
+}
+
+.hero-body {
+  background-color: grey;
+}
+
+.is-grey {
+  background-color: grey;
+  border-color: transparent;
+  color: #fff;
+}
+
+.move-enter-active, .move-leave-active {
+  transform: translateX(0);
+  transition: all .3s linear;
+}
+
+.move-enter, .move-leave-to {
+  transform: translateX(100%);
+  
+}
