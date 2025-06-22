@@ -19,8 +19,7 @@ npm run build
 ```
 
 ## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+[David E Lares S](https://davidlares.com)
 
 ## Licencia
-
 [MIT](https://opensource.org/licenses/MIT)
